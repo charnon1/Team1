@@ -1,0 +1,6 @@
+run konsole terminal
+type sudo ifconfig
+type ssh pi@
+for confirmation type yes
+password is pi
+terminate the connection by pressing Control+C
