@@ -1,6 +1,6 @@
 run konsole terminal
-type sudo ifconfig
-type ssh pi@
+(to find ip address on pi type ifconfig)
+type ssh pi@10.140.146.128
 for confirmation type yes
 password is pi
 terminate the connection by pressing Control+C
