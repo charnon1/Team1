@@ -15,7 +15,7 @@
 ####Week 1 Review
 * Goals set
 * Software - little progress made in week 1, but familiarised with github, nano, rpi, etc.
-* Hardware - 
+* Hardware - build up the default chassis and made sure it was functioning properly
 * Networking - 
 
 ###Week 2 Checklist
@@ -29,7 +29,7 @@
 ####Week 2 Review
 * Brandon added to team
 * Software - uploaded test code to github. Familiarised with SSH.
-* Hardware - 
+* Hardware - Decided to change to tracks and prepared the required parts for this
 * Network - 
 
 ###Week 3 Checklist
@@ -38,6 +38,11 @@
 - [ ] Cong Fang-Code to communicate and open the gate
 - [ ] Brady-3D print chassis, help with any debugging and check  all electronic components are working.
 - [ ] Philip-3D Print Chassis, and check progress of group.
+
+####Week 3 Review
+* Software - 
+* Hardware - implemented the tracks into the chassis. was tested with some software to be functioning properly and can turn/move properly
+* Network - 
 
 ###Week 4 Checklist
 - [ ] Overall goals: Quadrant 3 and 4
