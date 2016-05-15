@@ -1,0 +1,47 @@
+Design Specications
+You should develop a robot to go through the testing range. There are also
+three additional requirements discussed later.
+The testing range is 2x2 m square made out of 4 quadrants.
+ Your robot should stay within the range and go from start to the nish
+position.
+ Points are awarded based on how far your robot went through the range.
+ Robot should be positioned at start line when testing commences
+ You have 15 minutes of customer attention.
+ Robot should be totally autonomous and no human intervention is allowed.
+ You can take the robot back to the start line. 15 minutes timer keeps
+running.
+ Robot should not change range as it moves through
+A-quadrant: Your robot should follow a straight white line on black back-
+ground, wirelessly open a gate and move through it.
+B-quadrant: White line is arranged in curvy pattern, your robot must con-
+tinue to follow it.
+C-quadrant: White line is arranged in a maze pattern. You can consider
+some maze-solving algorithms.
+D-quadrant: No white line. Maze made out of wall 100 mm high. Distance
+between walls 180 mm. No loops in the maze.
+The group score will be out of 100.
+ Completing quadrant 1 will be suffcient to get 40%.
+ Completing quadrant 2 will be suffcient to get 60%.
+ Completing quadrant 3 will be suffcient to get 80%.
+ Completing quadrant 4 will be suffcient to get 100%.
+We may give partial marks for some quadrants at our discretion, especially
+in quadrant 4.
+
+Additional Requirements
+The two additional requirements are:
+
+Recyclability: In recyclability we are
+looking specically at how easy is it for us to get our parts back the sensors,
+micro controllers, motors etc. And as a hint, we like nuts, bolts and screws on
+our parts. Also making it recyclable makes it easier to repair or change if you
+discover a problem with your current design. Up to 10% can be taken off the
+group score for poor recyclability.
+
+Aesthetics is all about how well it is designed from an engineer's point of
+view. Does it look like a mess of wires and parts or is it tidy, or colourful etc.
+The hard part will be making it recyclable and aesthetically pleasing because
+quite often those two things dont go hand in hand. Up to 10% can be taken off
+the group score if your robot looks like mess of wires.
+
+Source: Section 5
+http://ecs.victoria.ac.nz/foswiki/pub/Courses/ENGR101_2016T1/Assignments/AVC.pdf
