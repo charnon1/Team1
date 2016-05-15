@@ -2,7 +2,7 @@ Design Specications
 You should develop a robot to go through the testing range. There are also
 three additional requirements discussed later.
 The testing range is 2x2 m square made out of 4 quadrants.
- Your robot should stay within the range and go from start to the nish
+ Your robot should stay within the range and go from start to the finish
 position.
  Points are awarded based on how far your robot went through the range.
  Robot should be positioned at start line when testing commences
@@ -31,7 +31,7 @@ Additional Requirements
 The two additional requirements are:
 
 Recyclability: In recyclability we are
-looking specically at how easy is it for us to get our parts back the sensors,
+looking specifically at how easy is it for us to get our parts back the sensors,
 micro controllers, motors etc. And as a hint, we like nuts, bolts and screws on
 our parts. Also making it recyclable makes it easier to repair or change if you
 discover a problem with your current design. Up to 10% can be taken off the
