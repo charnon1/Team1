@@ -1,6 +1,6 @@
 run konsole terminal
 (to find ip address on pi type ifconfig)
-type ssh pi@10.140.146.128
+type ssh pi@10.140.172.249 -- the IP has changed!
 for confirmation type yes
 password is pi
 terminate the connection by pressing Control+C
