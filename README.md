@@ -2,7 +2,8 @@
 
 | Parts  | Cost (Arthur$)  |
 | :------------ |:---------------:| 
-| ...      | ... |
+| Switch      | $15 |
+| ..    | .. |
 
 ###Week 1 Checklist
 - [ ] Overall goals: Robot Moving in Straight Line and Arrange with team our milestones for the weeks ahead
