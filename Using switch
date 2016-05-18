@@ -1,0 +1,8 @@
+connect it to an analog channel NOT digital
+
+red – 5v
+blue – analog
+black – ground
+
+off – 0  reading
+on - 1024 reading
