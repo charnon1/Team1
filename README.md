@@ -51,11 +51,11 @@ Comparison to objective: Still slighly behind schedule, but making good progress
 Comparison to set objective: Still behind in schedule, but progress has significantly picked up from previous weeks. Need to shift quadrant 2 back a week and likely looking to focus on only getting up to quadrant 3 by the end.
 
 ###Week 4 Checklist
-- [ ] Overall goals: Quadrant 3 and 4
-- [ ] Jacob,Brandon and Charnon- Finalise code for quadrant 3 and help with quadrant 4.
-- [ ] Cong Fang- Start on code for quadrant 4 detecting walls
-- [ ] Brady-Help build final robot and test electronic components are all working
-- [ ] Philip-Put together Finalised robot Chassis, and help with debugging.
+- [ ] Overall goals: ~~Quadrant 3 and 4~~ Finish quadrant 1 & 2
+- [ ] Jacob,Brandon and Charnon- Finalise code for ~~quadrant 3 and help with quadrant 4.~~ quadrant 1 & 2
+- [ ] Cong Fang- ~~Start on code for quadrant 4 detecting walls~~ Helping with quadrant 1 & 2
+- [ ] Brady- ~~Help build final robot and test electronic components are all working~~ Updating all documentation and progress. Helping with the design of the 3D printed chassis
+- [ ] Philip- ~~Put together Finalised robot Chassis, and help with debugging.~~ Designing the 3D printed chassis
 
 ###Week 5 Checklist
 - [ ] Overall goals: Testing and fixing, final run.
