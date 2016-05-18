@@ -73,9 +73,9 @@ Overall project plan
 | :------------ |:---------------:| ------: | ------: | ------: |
 | 1   | Robot moving in a straight line | AVC Plan Due | PHYS122 test | [Week 1 Checklist](#week-1-checklist) | 
 | 2   | Sensors interacting with motors, and Gate Connection |  |COMP102 test to study for 9th may | [Week 2 Checklist](#week-2-checklist) |
-| 3   | Quadrant 1 and 2 | AVC progress report 16th May | | [Week 3 Checklist](#week-3-checklist) |
-| 4   | Quadrant 3 and 4 |  | ENGR121 test 2 to study for 20th May| [Week 4 Checklist](#week-4-checklist) |
-| 5   | Final testing and fixing. Final run. | AVC robot 30th May  | ENGR101 test 2 to study for 30th May| [Week 5 Checklist](#week-5-checklist) |
+| 3   | Quadrant 1 and 2 UPDATE: Start Quadrant 1| AVC progress report 16th May | | [Week 3 Checklist](#week-3-checklist) |
+| 4   | Quadrant 3 and 4 UPDATE: Finish Quadrant 1 & 2. Start Quadrant 3|  | ENGR121 test 2 to study for 20th May| [Week 4 Checklist](#week-4-checklist) |
+| 5   | Final testing and fixing. Final run. UPDATE: All quadrants finished| AVC robot 30th May  | ENGR101 test 2 to study for 30th May| [Week 5 Checklist](#week-5-checklist) |
 | 6   | AVC report start |  | | [Week 6 Checklist](#week-6-checklist) |
 | 7   | AVC report finish |  |Final Report 13th June | [Week 7 Checklist](#week-7-checklist) |
 
