@@ -16,7 +16,9 @@
 * Goals set
 * Software - little progress made in week 1, but familiarised with github, nano, rpi, etc.
 * Hardware - build up the default chassis and made sure it was functioning properly
-* Networking - 
+* Networking - Obtained the pi ip address and sorted out how to ssh into pi to use wirelessly
+
+Comparison to objective: Slightly behind schedule, but this was due to the team needing to familiarise with the whole scope of the project. This was very worthwhile as now each member knows exactly what to do and progress can continue
 
 ###Week 2 Checklist
 - [ ] Overall goals: Sensors interacting with motors, and Gate Connection
@@ -30,7 +32,9 @@
 * Brandon added to team
 * Software - uploaded test code to github. Familiarised with SSH.
 * Hardware - Decided to change to tracks and prepared the required parts for this
-* Network - 
+* Network - sorted out the code needed to communicate with the server to open the gate.
+
+Comparison to objective: Still slighly behind schedule, but making good progress. The sensors and motors both work, but only individually and still need to be linked with a PID controller.
 
 ###Week 3 Checklist
 - [ ] Overall goals: Quadrant 1 and 2
@@ -40,9 +44,11 @@
 - [ ] Philip-3D Print Chassis, and check progress of group.
 
 ####Week 3 Review
-* Software - 
+* Software - base code added to, input from camera implemented into code to generate a proportional response, quadrant 1 almost completed
 * Hardware - implemented the tracks into the chassis. was tested with some software to be functioning properly and can turn/move properly
-* Network - 
+* Network - stand alone code can communicate with the gate server and open the gate
+
+Comparison to set objective: Still behind in schedule, but progress has significantly picked up from previous weeks. Need to shift quadrant 2 back a week and likely looking to focus on only getting up to quadrant 3 by the end.
 
 ###Week 4 Checklist
 - [ ] Overall goals: Quadrant 3 and 4
