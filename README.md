@@ -59,9 +59,9 @@ Comparison to set objective: Still behind in schedule, but progress has signific
 - [ ] Philip- ~~Put together Finalised robot Chassis, and help with debugging.~~ Designing the 3D printed chassis
 
 ####Week 4 Review
-* Software - Most of quadrant 1 code has been written
+* Software - Camera detects the white line and displays a number depending on its position relative to the white line.
 * Hardware - The 3d printed chassis design has been finalised and will be ready to be printed next week
-* Network
+* Network - Already completed.
 
 ###Week 5 Checklist
 - [ ] Overall goals: Testing and fixing, final run.
