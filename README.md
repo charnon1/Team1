@@ -63,6 +63,8 @@ Comparison to set objective: Still behind in schedule, but progress has signific
 * Hardware - The 3d printed chassis design has been finalised and will be ready to be printed next week
 * Network - Already completed.
 
+Comparison to objective: Really behind in schedule. Additional time slot needs to be arranged for more progress. All members may need to be moved to software where significantly more progress is needed.
+
 ###Week 5 Checklist
 - [ ] Overall goals: Testing and fixing, final run.
 - [ ] All -Test robot
