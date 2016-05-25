@@ -58,6 +58,11 @@ Comparison to set objective: Still behind in schedule, but progress has signific
 - [ ] Brady- ~~Help build final robot and test electronic components are all working~~ Updating all documentation and progress. Helping with the design of the 3D printed chassis
 - [ ] Philip- ~~Put together Finalised robot Chassis, and help with debugging.~~ Designing the 3D printed chassis
 
+####Week 4 Review
+* Software - Most of quadrant 1 code has been written
+* Hardware - The 3d printed chassis design has been finalised and will be ready to be printed next week
+* Network
+
 ###Week 5 Checklist
 - [ ] Overall goals: Testing and fixing, final run.
 - [ ] All -Test robot
