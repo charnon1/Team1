@@ -61,6 +61,7 @@ int main(){
 		printf("Proportional: %d ", proportional_signal);
 		
 		error_delta = current_error - previous_error;
+		previous_error = current_error;
 		derivative_signal = error_delta/0.5*kd; //0.5 is the second delay between each cycle
 				
 		
