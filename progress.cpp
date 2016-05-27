@@ -15,12 +15,12 @@ extern "C" char get_pixel(int row,int col,int colour);
 
 //Defining constants //kp = 0.0015, kd = 0.00015
 
-int const base_speed = 40;
+int const base_speed = 60;
 int const delay_s = 0;
 int const delay_us = 500000;
 
 int main(){
-	float kp = 0.0015;
+	float kp = 0.0045;
 	int proportional_signal;
 	
 	float kd = 0;
